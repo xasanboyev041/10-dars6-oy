@@ -1,4 +1,26 @@
 {
-    "greet" : "Salom",
-    "text" : "Saytga xush kelibsiz"
+   "portfolio": "PORTFOLIO",
+    "blog": "BLOG",
+    "cv": "REZYUME",
+    "store": "DO‘KON",
+    "freelance": "ERKIN",
+    "aboutme": "MEN HAQIMDA",
+    "contact": "ALOQA",
+
+    "posts": "Blog xabarlari",
+    "think": "Men shunday deb o'ylayman, bu shunday.",
+    "design": "Dizayn men qanday qilib tajribani eng muvaffaqiyatli taqdim etishni, men qo'ygan tugma muammoni hal qila oladimi yoki yo'qligini o'ylay boshlaganimdan keyin boshlanadi. Dizayndagi yagona nuqta ui dizayni emas, agar foydalanuvchi mahsulot oxirida yaxshi tajribaga ega bo'lmasa, dizayn mening fikrimcha muvaffaqiyatsiz deb hisoblanadi.",
+
+    "all": "Hammasi",
+    "uidesign": "UI-dizayn",
+    "uxdesign": "UX-dizayn",
+    "productDesign" :"Mahsulot dizayni",
+    "articles": "Maqolalar",
+    "tutorials":"Darsliklar",
+    "news":"Yangiliklar",
+
+    "now": "2020-yil 23-noyabr",
+    "wrong":"Bu UI dizayni haqida noto'g'ri.",
+    "quick": "Internetda podkastingiz haqida bilishdan boshlab foydalanuvchilarga qiyin bosqichlarda yordam berish uchun tezkor qo'llanma. Internetda podkastingiz haqida bilishdan boshlab foydalanuvchilarga qiyin bosqichlarda yordam berish uchun tezkor qo'llanma.",
+    "readmore": "KO'PROQ O'QISH"
 }

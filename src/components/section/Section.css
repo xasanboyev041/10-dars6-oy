@@ -1,0 +1,66 @@
+.wrapper-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
+.wrapper-blog-post {
+  width: 600px;
+}
+.h1-wrapper {
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 63.39px;
+  text-align: left;
+  color: rgba(208, 82, 112, 1);
+  margin-bottom: 12px;
+}
+.h2-section {
+  font-size: 52px;
+  font-weight: 500;
+  line-height: 63.39px;
+  text-align: left;
+  color: rgba(66, 66, 66, 1);
+  margin-bottom: 36px;
+}
+.wrapper-text-section {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.94px;
+  text-align: left;
+  color: rgba(66, 66, 66, 0.6);
+}
+.wrapper-button {
+  width: 640px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 36px;
+}
+.twitter-button {
+  width: 201px;
+  height: 60px;
+  top: 605px;
+  left: 360px;
+  border: none;
+  background-color: rgba(71, 172, 223, 1);
+  color: #ffffff;
+}
+.linkedin-button {
+  width: 201px;
+  height: 60px;
+  top: 605px;
+  left: 360px;
+  border: none;
+  background-color: rgba(18, 117, 177, 1);
+  color: #ffffff;
+}
+.medium-button {
+  width: 201px;
+  height: 60px;
+  top: 605px;
+  left: 360px;
+  border: none;
+  background-color: rgba(0, 0, 0, 1);
+  color: #ffffff;
+}

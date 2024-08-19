@@ -1,0 +1,53 @@
+.wrapper-cards-ul {
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  margin-bottom: 100px;
+}
+.wrapper-cards {
+  margin-top: 200px;
+}
+.wrapper-li-cards {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.94px;
+  text-align: left;
+  color: rgba(66, 66, 66, 1);
+}
+
+.wrapper-laptop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+.about-cards {
+  width: 590px;
+}
+.now {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17.07px;
+  text-align: left;
+  margin-top: 16px;
+  margin-bottom: 14px;
+  color: rgba(66, 66, 66, 1);
+}
+.wrong {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29.26px;
+  text-align: left;
+  color: rgba(208, 82, 112, 1);
+  margin-bottom: 12px;
+}
+.quick {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.5px;
+  text-align: left;
+  color: rgba(66, 66, 66, 1);
+  margin-bottom: 30px;
+}
